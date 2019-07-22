@@ -1,0 +1,4 @@
+# LabelImgHotkeyScript
+
+@TODO A README THAT WILL EXPLAIN THE SCRIPT
+
